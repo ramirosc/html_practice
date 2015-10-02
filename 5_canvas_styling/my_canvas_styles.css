@@ -1,0 +1,39 @@
+
+body {
+  font-size: 6pt;
+  font-family:arial;
+  color: maroon;
+}
+
+td {
+  vertical-align: top;
+}
+
+.canvas_section {
+  border: grey dotted;
+  padding-left: 1%;
+}
+
+ul{
+  list-style: none;
+ margin: 0;
+  padding: 0;
+}
+
+ol{
+ margin: 0;
+  padding: 10px;
+}
+
+h4{margin:0;}
+
+p{margin:0;}
+
+h3{margin-bottom:0;
+text-transform: uppercase;
+text-decoration: underline;
+font-size: 6pt;}
+
+.sublist {
+  font-style: thin italic;
+}
